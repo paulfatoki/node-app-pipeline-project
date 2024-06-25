@@ -1,0 +1,22 @@
+{
+  "name": "app-pipeline-project",
+  "version": "1.0.0",
+  "description": "'a new react application'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulfatoki/node-app-pipeline-project.git"
+  },
+  "author": "'paul fatoki'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulfatoki/node-app-pipeline-project/issues"
+  },
+  "homepage": "https://github.com/paulfatoki/node-app-pipeline-project#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
