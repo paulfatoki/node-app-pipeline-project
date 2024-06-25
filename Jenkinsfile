@@ -13,10 +13,19 @@ pipeline{
             }
 
         }
+        stage('installing npm'){
+        steps {
+            script{
+                sh 'npm install'
 
+            }
         }
+        
 
     }
+}
+}
+        
 
 
 
